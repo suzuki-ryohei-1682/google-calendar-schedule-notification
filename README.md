@@ -1,2 +1,1 @@
-### google-calendar-schedule-notification
-Test!
+# google-calendar-schedule-notification
